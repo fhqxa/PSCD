@@ -1,0 +1,12 @@
+{
+  "dataset": "cifar100_ir100",
+  "epochs": 30,
+  "batch_size": 16,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "adapter_dim": 4,
+  "dbd_gamma": 1.0,
+  "pdr_weight": 0.05,
+  "pdr_gate_temperature": 1.0,
+  "text_cue_weight": 0.5
+}
