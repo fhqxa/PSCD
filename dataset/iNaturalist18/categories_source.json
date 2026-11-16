@@ -1,0 +1,9 @@
+{
+  "source": "https://ml-inat-competition-datasets.s3.amazonaws.com/2018/categories.json.tar.gz",
+  "documentation": "https://github.com/visipedia/inat_comp/tree/master/2018",
+  "archive_sha256": "2287211e8da582419dc2ca66736005fdb079e0a89eaf38936a441d8277a8162e",
+  "categories_sha256": "9c7adca5cafad83bc015e21dc773580769ef641543c412708a08fd81ea99ceb0",
+  "ordering": "Category id is the class index; never alphabetical order.",
+  "names": "Official unobfuscated scientific species names",
+  "prompt": "a photo of a {}."
+}
